@@ -1,0 +1,49 @@
+body {
+    font-family: serif
+    ;
+   
+
+}
+
+#top {
+    text-align: center;
+}
+
+#logo-name     {
+    color:rgb(0, 0, 0);
+    background-color: rgb(229, 171, 236);
+    display: block;
+    font-size: 80px;
+    font-weight: 850;
+    padding: 10px;
+    margin-top: 16px;
+    
+}
+
+#navigation a {
+    color: black;
+    background-color:rgb(229, 171, 236);
+    font-size:large;
+}
+
+
+#navigation a:hover {    
+    color: white;
+}
+
+#main  {
+    text-align: center;
+
+}
+
+#image01 {
+    text-align: center;
+}
+
+#Lieblings-produkte {
+    text-align: center;
+}
+
+#Neuster-Post {
+    text-align: center;
+}
